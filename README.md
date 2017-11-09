@@ -1,6 +1,6 @@
 # dokku-build-env
 
-**Note: dokku-build-env is depreciated in favour of the built-in build-env plugin (since dokku 0.3.9).**
+**Note: dokku-build-env is deprecated in favour of the built-in build-env plugin (since dokku 0.3.9).**
 
 Allows you to specify custom environment variables for the build stage of your app. Unlike [dokku-user-env-compile][1], these are not application-specific.
 
